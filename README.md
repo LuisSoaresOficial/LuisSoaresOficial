@@ -1,7 +1,7 @@
 ## 💜 Olá, meu nome é <strong>{Luis Soares}!</strong>
 
 
-💬 Olá a todos! Me orgulho de ser professor na fascinante área da Tecnologia. Minha paixão não se limita apenas aos códigos e dispositivos, mas se estende ao eterno processo de aprendizado e descoberta. Em cada nova informação, vejo uma oportunidade de crescer e de inspirar os que me rodeiam.
+📢 Olá a todos! Me orgulho de ser professor na fascinante área da Tecnologia. Minha paixão não se limita apenas aos códigos e dispositivos, mas se estende ao eterno processo de aprendizado e descoberta. Em cada nova informação, vejo uma oportunidade de crescer e de inspirar os que me rodeiam.
 
 🔭 Atualmente estou ministrando aulas sobre Aplicativos Informatizados, Ambientes de Computação Modernos, Segurança da Informação, Desenvolvimento de aplicativos mobile com Ionic7 e Angular.
 
